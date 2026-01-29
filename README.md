@@ -56,23 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henok-demissie&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henok-demissie&layout=compact&theme=default" />
-</p>
-
-<!-- ✅ Correct & working streak stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henok-demissie&theme=default&hide_border=false" />
-</p>
-
----
-
 ## 🚀 Welcome
 
 Hello! I’m **Henok** — a developer who enjoys turning ideas into real-world applications and learning new technologies along the way.
