@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Passionate **Full-Stack & Mobile App Developer**
-- 🌱 Currently learning **Flutter** for cross-platform mobile development
+- 🌱 Currently learning **Machine Learning** for cross-platform mobile development
 - 💡 Interested in building scalable web & mobile solutions
 - 📫 Reach me at **henokdemissie13@gmail.com**
 
