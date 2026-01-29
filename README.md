@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Henok Demissie</h1>
 <h3 align="center">Full-Stack & Mobile Application Developer</h3>
 
+<!-- Profile Views (stable) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henok-demissie&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=henok-demissie&style=for-the-badge&color=blue" alt="profile views"/>
 </p>
 
+<!-- GitHub Trophies (working config) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henok-demissie&theme=flat&margin-w=15&no-frame=true" alt="GitHub trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=henok-demissie&theme=onedark&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -66,7 +71,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </p>
-
 
 ---
 
