@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Henok Demissie</h1>
+<h1 align="center">Henok Demissie</h1>
 <h3 align="center">Full-Stack & Mobile Application Developer</h3>
 
-<!-- Profile Views (stable) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henok-demissie&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=henok-demissie&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
-<!-- GitHub Trophies (working config) -->
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=henok-demissie&theme=onedark&row=1&column=6"
@@ -16,16 +14,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-- 🚀 Passionate **Full-Stack & Mobile Application Developer**
-- 🌱 Currently learning **Machine Learning** for cross-platform mobile apps
-- 💡 Love building **scalable, clean, and user-focused** solutions
-- 📫 Reach me at **henokdemissie13@gmail.com**
+I am a **Full-Stack and Mobile Application Developer** with a strong focus on building scalable, secure, and user-centric digital solutions. I specialize in modern web technologies, cross-platform mobile development, and system automation, delivering reliable products tailored to real-world business needs.
+
+- Strong background in **full-stack web and mobile development**
+- Experience building **automation-driven and scalable platforms**
+- Currently expanding expertise in **Machine Learning for mobile applications**
+- Passionate about clean architecture, performance, and maintainable code
+
+📧 **Email:** henokdemissie13@gmail.com
 
 ---
 
-## 🌐 Connect with Me
+## Professional Networks
 
 <p align="left">
   <a href="https://dev.to/dev.henokdemissie" target="_blank">
@@ -44,26 +46,32 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Technical Skills
 
+### Web & Mobile Development
 <p align="left">
-  <!-- Core Web & Mobile -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+</p>
 
-  <!-- Programming Languages -->
+### Programming Languages
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
 
-  <!-- Databases & Tools -->
+### Databases & Development Tools
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</p>
 
-  <!-- AI / Machine Learning -->
+### AI & Machine Learning
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
@@ -74,8 +82,7 @@
 
 ---
 
-## 🚀 Welcome
+## Closing Note
 
-Hello! I’m **Henok** — a developer who enjoys turning ideas into real-world applications and learning new technologies along the way.
-
-Thanks for stopping by my GitHub profile! ⭐
+I enjoy collaborating on impactful projects, solving complex problems, and continuously improving my technical skill set.  
+Feel free to explore my repositories or reach out for collaboration and professional opportunities.
